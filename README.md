@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=Hilster00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilster00&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Hilster00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilster00&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Hilster-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
