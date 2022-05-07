@@ -1,6 +1,6 @@
 ### Olá, sou o Hilster B. Santos 👋
 - 🔭 Atualmente estudante de Ciências da Computação
-- 🌱 Estudando Python
+- 🌱 Estudando Python e conhecimento básico em java
 <!--
 **Hilster00/Hilster00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
