@@ -1,5 +1,5 @@
 ### Olá, sou o Hilster B. Santos 👋
-- 🔭 Atualmente estudante de Ciência da Computação
+- 🔭 Bacharelando de Ciência da Computação
 - 🌱 Dev Python e conhecimento básico em Java e C
 
 <div align="center">
