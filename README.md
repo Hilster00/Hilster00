@@ -1,6 +1,6 @@
 ### Olá, sou o Hilster B. Santos 👋
 - 🔭 Bacharelando de Ciência da Computação
-- 🌱 Dev Python e conhecimento básico em Java e C
+- 🌱 Dev Python
 
 <div align="center">
   <a href="https://github.com/Hilster00">
