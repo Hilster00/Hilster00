@@ -36,6 +36,7 @@
   <img align="center" alt="Jupyter" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="Visualstudio" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> 
   <img align="center" alt="Eclipse" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" /> 
+  <img align="center" alt="Power BI" height="60" width="80" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
 </div> 
 
 
